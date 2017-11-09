@@ -1,53 +1,53 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
 
 body {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 header {
-	width: 100%;
-	height: 688px;
-	background-color: #f6f2f2;
+    width: 100%;
+    height: 688px;
+    background-color: #f6f2f2;
 }
 .header-menu {
-	width: 80%;
-	height: 89px; 
-	margin: 0 10%;
-	margin-top: 29px;
-	opacity: 0.8;
-	background-color: #000000;
-	position: absolute;
+    width: 80%;
+    height: 89px; 
+    margin: 0 10%;
+    margin-top: 29px;
+    opacity: 0.8;
+    background-color: #000000;
+    position: absolute;
 }
 .button-menu {
-	width: 60%;
-	height: 89px;
-	margin: 0 20%;
+    width: 60%;
+    height: 89px;
+    margin: 0 20%;
 }
 a.button1 {
-	position: relative;
-	width: 24%;
-	height: 20px;
-	margin: 0;
-	display: inline-block;
-	font-family: 'Open Sans', sans-serif;
+    position: relative;
+    width: 24%;
+    height: 20px;
+    margin: 0;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: bold;
     line-height: 1.71;
     letter-spacing: 0.5px;
     text-align: center;
     color: #e0e0e0;
-	text-decoration: none;
-	padding: 34px 0 35px;
+    text-decoration: none;
+    padding: 34px 0 35px;
 }
 a.button1:hover {
-	cursor: pointer;
-	background-color: #ff3f40;
+    cursor: pointer;
+    background-color: #ff3f40;
     box-shadow: -0.3px -2px 35px 0 rgba(0, 1, 1, 0.3);
 }
 a.button2 {
-	width: 101px;
+    width: 101px;
     height: 15px
-	margin: 0;
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 18.1px;
     font-weight: bold;
@@ -61,13 +61,13 @@ a.button2 {
     padding: 20px 63px 20px 63px;
 }
 a.button2:hover {
-	cursor: pointer;
-	background-color: #ff3f40;
+    cursor: pointer;
+    background-color: #ff3f40;
     box-shadow: -0.3px -2px 35px 0 rgba(0, 1, 1, 0.3);
 }
 h1 {
-	width: 100%;
-	height: 135px;
+    width: 100%;
+    height: 135px;
     font-family: 'Open Sans', sans-serif;
     font-size: 60px;
     font-weight: 800;
@@ -79,7 +79,7 @@ h1 {
     overflow: hidden;
 }
 p {
-	opacity: 0.7;
+    opacity: 0.7;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1.75;
@@ -88,23 +88,22 @@ p {
     margin: 0;
 }
 .banner {
-	width: 80%;
-	height: 356px;
-	margin: 0 10%;
-	margin-top: 221px;
-	position: absolute;
+    width: 80%;
+    height: 356px;
+    margin: 0 10%;
+    margin-top: 221px;
+    position: absolute;
 }
 .banner-left {
-	width: 56%;
-	height: 100%;
+    width: 56%;
+    height: 100%;
     display: inline-block;
     float: left;
 }
 .banner-right {
-	width: 44%;
-	height: 100%;
-	display: inline-block;
-	float: right;
+    width: 44%;
+    height: 100%;
+    display: inline-block;
+    float: right;
     box-shadow: -2.2px -13.8px 73px 0 rgba(0, 0, 0, 0.29);
 }
-
