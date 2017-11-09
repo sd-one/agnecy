@@ -107,3 +107,102 @@ p {
     float: right;
     box-shadow: -2.2px -13.8px 73px 0 rgba(0, 0, 0, 0.29);
 }
+.content {
+    width: 100%;
+    margin: 0 auto;
+}
+h2 {
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.8);
+    margin: 0;
+}
+.get-in-touch
+{
+    height: 985px;
+    width: 100%;
+}
+.info {
+    width: 100%;
+    height: 666px;
+}
+form {
+    width: 60%;
+    height: 100%;
+    float: left;
+    display: inline-block;
+}
+.contact {
+    width: 40%;
+    height: 481px;
+    float: right;
+    display: inline-block;
+    background-color: #2d2d2d;
+    margin-top: 75px;
+}
+h5 {
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.89;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0;
+}
+input.submit {
+    width: 75.4%;
+    height: 72px;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18.1px;
+    font-weight: bold;
+    line-height: 1.88;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 5px;
+    background-color: #ff2d2d;
+    text-decoration: none;
+}
+input.submit:hover {
+    cursor: pointer;
+    background-color: #ff3f40;
+    box-shadow: -0.3px -2px 35px 0 rgba(0, 1, 1, 0.3);
+}
+.text {
+    width: 34%;
+    height: 69px;
+    opacity: 0.1;
+    border-radius: 10px;
+    background-color: #000000;
+}
+textarea {
+    width: 75.4%;
+    height: 249px;
+    opacity: 0.1;
+    background-color: #000000;
+    border-radius: 10px;
+    margin: 0 0 30px 16.5%;
+}
+
+
+
+footer {
+    width: 100%;
+    height: 111px;
+    background-color: #313030;
+}
+p.style-text-1 {
+    padding: 50px 0 0 11%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.63;
+    text-align: left;
+    color: #b8b8b8;
+}
