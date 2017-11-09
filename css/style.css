@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.bg {
+  width: 1579px;
+  height: 5923px;
+  background-color: #ffffff;
+  margin: 0 auto;
+}
+
+.meet {
+  width: 341px;
+  height: 32px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.8);
+}
+h2 {
+  width: 341px;
+  height: 32px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.8);
+  padding-left: 155px;
+}
+.lorem-1 {
+  width: 446px;
+  height: 80px;
+  opacity: 0.7;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+  padding-left: 166px;
+  padding-top: 40px;
+  overflow: hidden;
+}
+.Rectangle-4-copy-4 {
+  width: 132px;
+  height: 3px;
+  background-color: #ff2d2d;
+  margin:0;
+  margin-left: 166px;
+  margin-top:33px;
+}
+.vzardini {
+  width: 321px;
+  height: 458px;
+  float: left;
+  padding-left: 163px;
+  padding-top: 69px;
+}
+.mark {
+	width: 321px;
+  height: 458px;
+}
+.mark-profile {
+  float:left;
+  width: 1095px;
+  height: 458px;
+  padding-top:50px;
+}
+.mark-waugh {
+  width: 207px;
+  height: 23px;
+  opacity: 0.8;
+  font-family: OpenSans;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  padding-left: 163px;
+}
+h3 {
+  width: 207px;
+  height: 23px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  float:left;
+  padding-left: 73px;
+  padding-top: 15px;
+  margin: 0;
+}
+.lorem-2 {
+  width: 630px;
+  height: 45px;
+  opacity: 0.7;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+  padding-top: 73px;
+  padding-left: 74px;
+}
+.social-profile{
+	height: 15px;
+	width: 1095px;
+	padding-top:44px;
+}
+.facebook {
+  width: 82px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  padding-left: 75px;
+  text-decoration: none;
+  float:left;
+}
+a.facebook:hover {
+	text-decoration: underline;
+	color:#ff2d2d;
+}
+.dribble {
+  width: 63px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  float:left;
+  padding-left: 29px;
+  text-decoration: none;
+  float:left;
+}
+a.dribble:hover {
+	text-decoration: underline;
+	color:#ff2d2d;
+}
+.behance {
+  width: 72px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  float:left;
+  padding-left: 29px;
+  text-decoration: none;
+  float: left;
+}
+a.behance:hover {
+	text-decoration: underline;
+	color:#ff2d2d;
+}
+.twitter {
+  width: 52px;
+  height: 15px;
+  opacity: 0.8;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.33;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  float:left;
+  padding-left: 29px;
+  text-decoration: none;
+  float: left;
+}
+a.twitter:hover {
+	text-decoration: underline;
+	color:#ff2d2d;
+}
+.icoppola {
+  width: 196.8px;
+  height: 214px;
+  padding-left: 74px;
+  padding-top: 67px;
+}
+img.icoppola:hover {
+    opacity:0.35;
+    cursor:pointer;    
+}
+.adonadoni {
+  width: 196.9px;
+  height: 214px;
+  padding-left:20.2px;
+}
+.chihuahua {
+  width: 196.8px;
+  height: 214px;
+  padding-left:20.2px;
+}
+.dobermann {
+  width: 196.8px;
+  height: 214px;
+  padding-left:20.2px;
+}
+.Rectangle-8 {
+  width: 197px;
+  height: 37px;
+  opacity: 0.5;
+  background-color: #000000;
+}
+.sokina-jue {
+  width: 102px;
+  height: 17px;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
