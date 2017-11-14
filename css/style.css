@@ -196,97 +196,78 @@ a.twitter:hover {
 	text-decoration: underline;
 	color:#ff2d2d;
 }
-.icoppola {
-  width: 196.8px;
-  height: 214px;
-  padding-left: 74px;
-  padding-top: 67px;
+
+
+/*=================TEST===================*/
+.foto-profile{
+	width: 1095px;
+	height: 214px;
+	padding-top: 67px; 
+	padding-left: 52.9px;
 }
-img.icoppola:hover {
-    opacity:0.35;
-    cursor:pointer;    
-}
-.adonadoni {
-  width: 196.9px;
-  height: 214px;
-  padding-left:20.2px;
-}
-.chihuahua {
-  width: 196.8px;
-  height: 214px;
-  padding-left:20.2px;
-}
-.dobermann {
-  width: 196.8px;
-  height: 214px;
-  padding-left:20.2px;
-}
-.Rectangle-8 {
-  width: 197px;
-  height: 37px;
-  opacity: 0.5;
-  background-color: #000000;
-}
-.sokina-jue {
+
+.text-foto {
   width: 102px;
   height: 17px;
-  font-family: OpenSans;
+  font-family: Open Sans;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.2px;
   text-align: left;
   color: #ffffff;
 }
-
-/*=================TEST===================*/
+.img_block{
+  width: 196.8px;
+  height: 214px;
+  float: left;
+  padding-left: 20.1px;
+}
 .img_block .content_block {
   width: 196.8px;
   height: 214px;
-    background:#f6f6f6;
-    text-align:center;
-    min-height:196px;
-    font-family: 'Roboto', sans-serif;
-    font-weight:400;
-    border-width: none; 
-    border-style: solid; 
-    
+  background:#f6f6f6; 
+  text-align:center;
+  min-height:196px;
+}
+.icoppola {
+  width: 196.8px;
+  height: 214px;
 }
 .img_block a.content_block {
-    display:block;
-    position: relative;
-    overflow:hidden;
-    transition: all .4s;
-    cursor:pointer;
-}
+  display:block;
+  position: relative;
+  overflow:hidden;
+  transition: all .4s;
+  cursor:pointer;
+} 
 .img_block a.content_block .over_block {
-    width:100%;
-    height:100%;
-    position:absolute;
-    top:0;
-    left:0;
-    z-index: 9900;
-    transition:all 1s;
-}
-.img_block a.content_block:hover .over_block {
-    display:block;
-    background-color:rgba(0, 160, 150, 0.7);
+  width:196.8px;
+  height:214px;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index: 9900;
+  transition:all 1s;
 }
 .img_block a.content_block span {
-    background: rgba(0, 92, 44, 0.5);
-    width:100%;
-    height:0px;
-    text-transform:uppercase;
-    font-size:11px;
-    line-height:60px;
-    position:absolute;
-    display:block;
-    bottom:0px;
-    left:0;
-    z-index: 9910;
-    transition: all .4s;
+  width: 197px;
+  height: 0;
+  opacity: 0.5;
+  background-color: #000000;
+  position:absolute;
+  display:block;
+  bottom:0px;
+  left:0;
+  z-index: 9910;
+  transition: all .4s;
+  padding-left: 51px;
+  padding-top:-10px;
 }
 .img_block a.content_block:hover span {
-    bottom:0;
-    height:60px;
-    color: #ffffff;
-}
+  bottom:0;
+  width: 197px;
+  height:37px;
+  color: #ffffff;
+  text-decoration: none;
+  padding-top: 10px;
+} 
